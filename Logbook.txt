@@ -6,7 +6,7 @@ Alamat GitHub	: https://github.com/MrLevi
 Alamat Trello	:https://trello.com/Mrlevi
 
 Anggota 1	:
-	Nama	: M Iqbal Fahlevi
+	Nama	: Iqbal Fahlevi
 	NIM	: 121113070
 
 Anggota 2	:
@@ -25,7 +25,7 @@ SPRINT
 ------
 Sprint 1		:
 Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
-Scrummaster		: M Iqbal Fahlevi (121113070)
+Scrummaster		: Iqbal Fahlevi (121113070)
 
 
 Progress Harian
