@@ -1,9 +1,9 @@
 ================================================================
-Nama kelompok 	: SimSimi
+Nama kelompok 	: Newcomers
 
-Judul Topik 	: Commview For WIFI
-Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
-Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+Judul Topik 	:PSIKOPAT? 
+Alamat GitHub	: https://github.com/MrLevi
+Alamat Trello	:https://trello.com/Mrlevi
 
 Anggota 1	:
 	Nama	: M Iqbal Fahlevi
