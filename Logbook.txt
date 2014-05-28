@@ -16,7 +16,7 @@ Anggota 2	:
 Anggota 3	:
 	Nama	: Katerine Silaban
 	NIM	: 121112953
-Anggota 3	:
+Anggota 4	:
 	Nama	: Novayanti Nainggolan
 	NIM	: 121113053
 ==================================================================
@@ -24,8 +24,8 @@ Anggota 3	:
 SPRINT
 ------
 Sprint 1		:
-Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
-Scrummaster		: Iqbal Fahlevi (121113070)
+Tgl. Pelaksanaan	: 26/5/14 - 28/5/14
+Scrummaster		: Iqbal Fahlevi (12 111 3070)
 
 
 Progress Harian
@@ -33,16 +33,17 @@ Progress Harian
 Tgl : 26/5/14
 Daily Scrum
 
-M Iqbal Fahlevi			:
-1. Hari ini saya memulai instalasi software Node.js dan Git
+Iqbal Fahlevi			:
+	1. Hari ini saya memulai instalasi software Node.js dan Git
 
 Santy Andriani	
-1. Hari ini saya memulai instalasi software pendukung presentasi berupa : Node.js, Git
+	1. Hari ini saya memulai instalasi software pendukung presentasi berupa : Node.js, Git
 
 Katerine Silaban			:
-1. Hari ini saya mulai menginstal sebuah software pendukung presentasi saja yaitu Git
+	1. Hari ini saya mulai menginstal sebuah software pendukung presentasi saja yaitu Git
+
 Novayanti Nainggolan
-1. Hari ini saya mulai menginstal software pendukung presentasi yaitu Git dan Bespoke.js
+	1. Hari ini saya mulai menginstal software pendukung presentasi yaitu Git dan Bespoke.js
 ===============================================================================================
 Progress Harian
 ---------------
@@ -58,12 +59,39 @@ Santy Andriani
 	1. Semalam saya menginstal presentasi github dan bespoke
 	2. Hari ini saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
 	3. Kendala yang saya  hadapi belum ada
+
 Katerine Silaban
 	1. Semalam saya mengerjakan penginstalan github,bespoke, node.js
 	2. Hari ini saya mencari data berupa menghidari seorang psikopat
 	3. Tidak ada kendala sampai saat ini
+
 Novayanti Nainggolan
 	1. Semalam saya melakukan penginstalan github, node.js
 	2. Hari ini saya mencari data tentang Tahapan diagnosa dan gejala Psikopat
 	3. Belum ada kendala yang saya temui
 ================================================================================================================================
+Progress Harian
+---------------
+Tgl : 28/5/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mencari data berupa latarbelakang Psikopat
+	2. Hari ini saya Push latarbelakang Psikopat
+	3. Kendala yang saya hadapi menemukan beberapa error saat mem-push
+ 
+Santy Andriani
+	1. Semalam saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	2. Hari ini saya Push Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	3. Kendala yang dihadapi terjadi error saat push
+
+Katerine Silaban
+	1. Semalam saya mencari data berupa menghidari seorang psikopat
+	2. Hari ini saya push cara menghidari seorang psikopat
+	3. ada sedikit kendala error saat push
+
+Novayanti Nainggolan
+	1. Semalam saya mencari data tentang Tahapan diagnosa dan gejala Psikopat
+	2. Hari ini saya push Tahapan diagnosa dan gejala Psikopat
+	3. terjadi kendala pada saat push ke repository
+=========================================================================================================================
