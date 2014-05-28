@@ -1,12 +1,12 @@
 ================================================================
-Nama kelompok 	: SimSimi
+Nama kelompok 	: Newcomers
 
-Judul Topik 	: Commview For WIFI
-Alamat GitHub	: https://github.com/Rick88/BeSpoke-Project
-Alamat Trello	: https://trello.com/b/3ACs3QRG/bespoke-project
+Judul Topik 	:PSIKOPAT? 
+Alamat GitHub	: https://github.com/MrLevi
+Alamat Trello	:https://trello.com/Mrlevi
 
 Anggota 1	:
-	Nama	: M Iqbal Fahlevi
+	Nama	: Iqbal Fahlevi
 	NIM	: 121113070
 
 Anggota 2	:
@@ -25,7 +25,7 @@ SPRINT
 ------
 Sprint 1		:
 Tgl. Pelaksanaan	: 26/5/14 - 29/5/14
-Scrummaster		: M Iqbal Fahlevi (121113070)
+Scrummaster		: Iqbal Fahlevi (121113070)
 
 
 Progress Harian
@@ -43,3 +43,27 @@ Katerine Silaban			:
 1. Hari ini saya mulai menginstal sebuah software pendukung presentasi saja yaitu Git
 Novayanti Nainggolan
 1. Hari ini saya mulai menginstal software pendukung presentasi yaitu Git dan Bespoke.js
+===============================================================================================
+Progress Harian
+---------------
+Tgl : 27/5/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya menginstall pendukung presentasi
+	2. Hari ini saya mencari data berupa latar belakan Psikopat
+	3. Kendala yang dihadapi belum ada
+ 
+Santy Andriani
+	1. Semalam saya menginstal presentasi github dan bespoke
+	2. Hari ini saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	3. Kendala yang saya  hadapi belum ada
+Katerine Silaban
+	1. Semalam saya mengerjakan penginstalan github,bespoke, node.js
+	2. Hari ini saya mencari data berupa menghidari seorang psikopat
+	3. Tidak ada kendala sampai saat ini
+Novayanti Nainggolan
+	1. Semalam saya melakukan penginstalan github, node.js
+	2. Hari ini saya mencari data tentang Tahapan diagnosa dan gejala Psikopat
+	3. Belum ada kendala yang saya temui
+================================================================================================================================
