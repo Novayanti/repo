@@ -2,8 +2,8 @@
 Nama kelompok 	: Newcomers
 
 Judul Topik 	:PSIKOPAT? 
-Alamat GitHub	: https://github.com/MrLevi
-Alamat Trello	:https://trello.com/Mrlevi
+Alamat GitHub	: https://github.com/Novayanti/repo
+Alamat Trello	: https://trello.com/b/s1dkcjJ9/welcome-board
 
 Anggota 1	:
 	Nama	: Iqbal Fahlevi
