@@ -95,3 +95,34 @@ Novayanti Nainggolan
 	2. Hari ini saya push Tahapan diagnosa dan gejala Psikopat
 	3. terjadi kendala pada saat push ke repository
 =========================================================================================================================
+SPRINT
+------
+Sprint 2		:
+Tgl. Pelaksanaan	: 29/5/14 - 31/5/14
+Scrummaster		: Novayanti Nainggolan (12 111 3053)
+
+
+Progress Harian
+---------------
+Tgl : 29/5/14
+Daily Scrum
+
+Iqbal Fahle
+	1. Semalam saya mem-Push latarbelakang Psikopat			
+	2. Hari ini saya membuat judul Latar Belakang Psikopat dan Membuat penyembuhan Psikopat
+	3. Kendala yang saya hadapi tidak ada
+
+Santy Andriani	
+	1. Semalam saya mencari data Film yang bertemakan Psikopat
+	2. Hari ini saya menyelesaikan tulisan film yang bertema Psikopat dan daftar orang tersadis didunia
+	3. Tidak ada kendala yang saya hadapi dalam menyelesaikan data ini
+
+Katerine Silaban	
+	1. Semalam saya mencari data Film yang bertemakan Psikopat dan daftar psikopat tersadis di dunia
+	2. Hari ini saya mengedit bespoke dan mempush src serta membuat data Test Psikopat
+	3. Kendala yang saya hadapi masih belum terampil menghapus data yang ada di repository
+Novayanti Nainggolan
+	1. Semalam saya membuat Tahapan dan Gejala Psikopat
+	2. Hari ini saya melanjutkan membuat tulisan gejala psikopat 
+	3. Tidak ada kendala yang saya hadapi
+===============================================================================================
