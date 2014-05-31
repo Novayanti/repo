@@ -107,7 +107,7 @@ Progress Harian
 Tgl : 29/5/14
 Daily Scrum
 
-Iqbal Fahle
+Iqbal Fahlevi
 	1. Semalam saya mem-Push latarbelakang Psikopat			
 	2. Hari ini saya membuat judul Latar Belakang Psikopat dan Membuat penyembuhan Psikopat
 	3. Kendala yang saya hadapi tidak ada
@@ -126,3 +126,34 @@ Novayanti Nainggolan
 	2. Hari ini saya melanjutkan membuat tulisan gejala psikopat 
 	3. Tidak ada kendala yang saya hadapi
 ===============================================================================================
+SPRINT
+------
+Sprint 2		:
+Tgl. Pelaksanaan	: 29/5/14 - 31/5/14
+Scrummaster		: Novayanti Nainggolan (12 111 3053)
+
+
+Progress Harian
+---------------
+Tgl : 30/5/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya membuat judul Latar Belakang Psikopat dan Membuat penyembuhan Psikopat			
+	2. Hari ini saya mencoba mengedit bespoke
+	3. Kendala yang saya hadapi editan tidak berubah setelah di edit dan terjadi error di git bash
+
+Santy Andriani	
+	1. Semalam saya menyelesaikan tulisan film yang bertema Psikopat dan daftar orang tersadis didunia
+	2. Hari ini saya mengupdate bespoke
+	3. Kendala yang saya hadapi saya mengalami kendala pada saat mem-push update dari bespoke
+
+Katerine Silaban	
+	1. Semalam saya mengedit bespoke dan mempush src serta membuat data Test Psikopat
+	2. Hari ini saya mulai mengerjakan koding
+	3. Kendala yang saya hadapi adalah tidak berjalannya bespoke atau keluar kata cannot GET / di browser
+Novayanti Nainggolan
+	1. Semalam saya melanjutkan membuat tulisan gejala psikopat
+	2. Hari ini saya membuat koding nama anggota, nama kelompok, judul, serta gejala-gejala psikopat
+	3. Kendala yang saya hadapi adalah disaat mengedit presentasi tersebut tidak bisa dijalankan di localhost:8000  
+======================================================================================================================
