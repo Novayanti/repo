@@ -157,3 +157,34 @@ Novayanti Nainggolan
 	2. Hari ini saya membuat koding nama anggota, nama kelompok, judul, serta gejala-gejala psikopat
 	3. Kendala yang saya hadapi adalah disaat mengedit presentasi tersebut tidak bisa dijalankan di localhost:8000  
 ======================================================================================================================
+SPRINT
+------
+Sprint 2		:
+Tgl. Pelaksanaan	: 29/5/14 - 31/5/14
+Scrummaster		: Novayanti Nainggolan (12 111 3053)
+
+
+Progress Harian
+---------------
+Tgl : 31/5/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mencoba mengedit bespoke			
+	2. Hari ini saya mengerjakan desain bespoke
+	3. Kendala yang saya hadapi pada saat nge-pull tidak bisa atau error
+
+Santy Andriani	
+	1. Semalam saya mengupdate bespoke
+	2. Hari ini saya mengerjakan bespoke  
+	3. Kendala yang saya hadapi saya mengalami kendala pada saat mau pull
+
+Katerine Silaban	
+	1. Semalam saya mulai mengerjakan koding
+	2. Hari ini saya mengerjakan mendesain bespoke
+	3. Kendala yang saya hadapi tidak ada
+Novayanti Nainggolan
+	1. Semalam saya membuat koding nama anggota, nama kelompok, judul, serta gejala-gejala psikopat
+	2. Hari ini saya melanjutkan koding di bespoke 
+	3. Kendala yang saya hadapi adalah pada saat pull terjadi error
+======================================================================================================================
