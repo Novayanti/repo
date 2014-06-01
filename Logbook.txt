@@ -188,3 +188,35 @@ Novayanti Nainggolan
 	2. Hari ini saya melanjutkan koding di bespoke 
 	3. Kendala yang saya hadapi adalah pada saat pull terjadi error
 ======================================================================================================================
+SPRINT
+------
+Sprint 3		:
+Tgl. Pelaksanaan	: 01/6/14 - 3/6/14
+Scrummaster		: SANTY ANDRIANI (12 111 3495)
+
+
+Progress Harian
+---------------
+Tgl : 01/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mengerjakan desain bespoke			
+	2. Hari ini saya membuat bespoke ciri ciri psikopat
+	3. Kendalanya ada sedikit error pada saat push
+
+Santy Andriani	
+	1. Semalam saya mengerjakan koding bespoke film yang bertema psikopat
+	2. Hari ini saya mengerjakan lanjutan bespoke yaitu daftar psikopat tersadis di dunia  
+	3. Kendala yang saya hadapi ada sedikit error pada saat pull data
+
+Katerine Silaban	
+	1. Semalam saya mengerjakan design bespoke
+	2. Hari ini saya mengerjakan koding contoh kasus psikopat
+	3. Kendala yang saya hadapi, bentuk design tidak beraturan ketika dijalankan di localhost
+
+Novayanti Nainggolan
+	1. Semalam saya melanjutkan koding di bespoke
+	2. Hari ini saya mengerjakan koding penyembuhan psikopat
+	3. Kendala yang saya hadapi adalah harus merefresh beberapa x localhost baru muncul tampilan yang saya edit.
+======================================================================================================================
