@@ -220,3 +220,35 @@ Novayanti Nainggolan
 	2. Hari ini saya mengerjakan koding penyembuhan psikopat
 	3. Kendala yang saya hadapi adalah harus merefresh beberapa x localhost baru muncul tampilan yang saya edit.
 ======================================================================================================================
+SPRINT
+------
+Sprint 3		:
+Tgl. Pelaksanaan	: 01/6/14 - 3/6/14
+Scrummaster		: SANTY ANDRIANI (12 111 3495)
+
+
+Progress Harian
+---------------
+Tgl : 02/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya membuat bespoke ciri ciri psikopat			
+	2. Hari ini saya melengkapi ciri ciri psikopat
+	3. Tidak ada kendala yang dihadapi
+
+Santy Andriani	
+	1. Semalam saya mengerjakan lanjutan bespoke yaitu daftar psikopat tersadis di dunia
+	2. Hari ini saya mengerjakan mengedit bespoke dan memperbaiki bagian yang error  
+	3. Kendala yang saya hadapi untuk bagaian ini tidak ada
+
+Katerine Silaban	
+	1. Semalam saya mengerjakan koding contoh kasus psikopat
+	2. Hari ini saya melengkapi koding contoh kasus psikopat
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya mengerjakan koding penyembuhan psikopat
+	2. Hari ini saya mengganti warna background slide dan menghapus data
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
