@@ -89,7 +89,7 @@ article.bespoke-parent {
   margin-top: -240px;
   left: 50%;
   margin-left: -320px;
-  background: #eaeaea;
+  background: #f00;
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -227,7 +227,7 @@ li.bespoke-bullet-inactive {
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #eaeaea;
+  background: #f00;
 }
 pre {
   padding: 26px !important;
