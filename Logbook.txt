@@ -252,3 +252,35 @@ Novayanti Nainggolan
 	2. Hari ini saya mengganti warna background slide dan menghapus data
 	3. Kendala yang saya hadapi tidak ada
 ======================================================================================================================
+SPRINT
+------
+Sprint 3		:
+Tgl. Pelaksanaan	: 01/6/14 - 3/6/14
+Scrummaster		: SANTY ANDRIANI (12 111 3495)
+
+
+Progress Harian
+---------------
+Tgl : 03/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya melengkapi ciri ciri psikopat			
+	2. Hari ini saya mengubah warna background dan font
+	3. Kendalanya saya sedikit bingung saat memilih warna untuk project ini
+
+Santy Andriani	
+	1. Semalam saya mengedit bespoke dan memperbaiki bagian yang error
+	2. Hari ini saya memperbarui Slide bespoke dan melengkapi data yang kurang
+	3. Kendala yang saya hadapi untuk bagaian ini tidak ada
+
+Katerine Silaban	
+	1. Semalam saya melengkapi koding contoh kasus psikopat
+	2. Hari ini saya mengganti background dan menghapus yang tidak penting pada slide
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya mengganti warna background slide dang menghapus data
+	2. Hari ini saya mengubah ukuran body dan mengedit slide
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
