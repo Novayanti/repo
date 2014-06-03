@@ -82,14 +82,14 @@ article.bespoke-parent {
   -webkit-align-items: center;
   align-items: center;
   text-align: center;
-  width: 640px;
+  width: 1030px;
   height: 480px;
   position: absolute;
   top: 50%;
   margin-top: -240px;
   left: 50%;
-  margin-left: -320px;
-  background: #f00;
+  margin-left: -515px;
+  background: #8c0909;
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -105,18 +105,18 @@ article.bespoke-parent {
   }
 }
 .bespoke-before {
-  -webkit-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -moz-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -o-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -ms-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
+  -webkit-transform: translateX(100px) translateX(-515px) rotateY(-90deg) translateX(-515px);
+  -moz-transform: translateX(100px) translateX(-515px) rotateY(-90deg) translateX(-515px);
+  -o-transform: translateX(100px) translateX(-515px) rotateY(-90deg) translateX(-515px);
+  -ms-transform: translateX(100px) translateX(-515px) rotateY(-90deg) translateX(-515px);
+  transform: translateX(100px) translateX(-515px) rotateY(-90deg) translateX(-515px);
 }
 .bespoke-after {
-  -webkit-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -moz-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -o-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -ms-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
+  -webkit-transform: translateX(-100px) translateX(515px) rotateY(90deg) translateX(515px);
+  -moz-transform: translateX(-100px) translateX(515px) rotateY(90deg) translateX(515px);
+  -o-transform: translateX(-100px) translateX(515px) rotateY(90deg) translateX(515px);
+  -ms-transform: translateX(-100px) translateX(515px) rotateY(90deg) translateX(515px);
+  transform: translateX(-100px) translateX(515px) rotateY(90deg) translateX(515px);
 }
 @media print {
   .bespoke-after {
@@ -227,7 +227,7 @@ li.bespoke-bullet-inactive {
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #f00;
+  background: #8c0909;
 }
 pre {
   padding: 26px !important;
@@ -237,7 +237,7 @@ pre {
 body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #000;
 }
 h1 {
   font-size: 72px;
@@ -254,7 +254,7 @@ h3 {
   font-size: 14px;
   font-weight: normal;
   margin-bottom: 24px;
-  color: #606060;
+  color: #000;
 }
 hr {
   visibility: hidden;
