@@ -82,13 +82,13 @@ article.bespoke-parent {
   -webkit-align-items: center;
   align-items: center;
   text-align: center;
-  width: 640px;
+  width: 1010px;
   height: 480px;
   position: absolute;
   top: 50%;
   margin-top: -240px;
   left: 50%;
-  margin-left: -320px;
+  margin-left: -505px;
   background: #f00;
   padding: 40px;
   -webkit-border-radius: 0;
@@ -105,18 +105,18 @@ article.bespoke-parent {
   }
 }
 .bespoke-before {
-  -webkit-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -moz-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -o-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  -ms-transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
-  transform: translateX(100px) translateX(-320px) rotateY(-90deg) translateX(-320px);
+  -webkit-transform: translateX(100px) translateX(-505px) rotateY(-90deg) translateX(-505px);
+  -moz-transform: translateX(100px) translateX(-505px) rotateY(-90deg) translateX(-505px);
+  -o-transform: translateX(100px) translateX(-505px) rotateY(-90deg) translateX(-505px);
+  -ms-transform: translateX(100px) translateX(-505px) rotateY(-90deg) translateX(-505px);
+  transform: translateX(100px) translateX(-505px) rotateY(-90deg) translateX(-505px);
 }
 .bespoke-after {
-  -webkit-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -moz-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -o-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  -ms-transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
-  transform: translateX(-100px) translateX(320px) rotateY(90deg) translateX(320px);
+  -webkit-transform: translateX(-100px) translateX(505px) rotateY(90deg) translateX(505px);
+  -moz-transform: translateX(-100px) translateX(505px) rotateY(90deg) translateX(505px);
+  -o-transform: translateX(-100px) translateX(505px) rotateY(90deg) translateX(505px);
+  -ms-transform: translateX(-100px) translateX(505px) rotateY(90deg) translateX(505px);
+  transform: translateX(-100px) translateX(505px) rotateY(90deg) translateX(505px);
 }
 @media print {
   .bespoke-after {
@@ -251,7 +251,7 @@ h2 {
   margin-bottom: 30px;
 }
 h3 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
   margin-bottom: 24px;
   color: #606060;
@@ -266,10 +266,13 @@ ul {
 li {
   margin-bottom: 20px;
   font-size: 14px;
+  list-style: none;
 }
 p {
   margin: 0 20px 12px;
   line-height: 22px;
+  font-size: 16px;
+  color: #fcfafa;
 }
 a {
   color: #0089f3;
