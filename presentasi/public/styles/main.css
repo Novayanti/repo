@@ -89,7 +89,7 @@ article.bespoke-parent {
   margin-top: -240px;
   left: 50%;
   margin-left: -320px;
-  background: #f00;
+  background: #000;
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -227,7 +227,7 @@ li.bespoke-bullet-inactive {
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #f00;
+  background: #000;
 }
 pre {
   padding: 26px !important;
@@ -237,7 +237,7 @@ pre {
 body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #fff;
 }
 h1 {
   font-size: 72px;
@@ -254,7 +254,7 @@ h3 {
   font-size: 14px;
   font-weight: normal;
   margin-bottom: 24px;
-  color: #606060;
+  color: #fff;
 }
 hr {
   visibility: hidden;
