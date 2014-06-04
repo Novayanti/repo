@@ -284,3 +284,36 @@ Novayanti Nainggolan
 	2. Hari ini saya mengubah ukuran body dan mengedit slide
 	3. Kendala yang saya hadapi tidak ada
 ======================================================================================================================
+======================================================================================================================
+SPRINT
+------
+Sprint 4		:
+Tgl. Pelaksanaan	: 04/6/14 - 6/6/14
+Scrummaster		: KATERINE SILABAN (12 111 2953)
+
+
+Progress Harian
+---------------
+Tgl : 04/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mengubah warna background dan font			
+	2. Hari ini saya mengubah rotation pada slide bespoke
+	3. Kendalanya ada sedikit kendala pada saat mengedit code style
+
+Santy Andriani	
+	1. Semalam saya memperbarui Slide bespoke dan melengkapi data yang kurang
+	2. Hari ini saya menambahkan kata diakhir slide
+	3. Tidak ada kendala kendala pada saat mengerjakan bagian penambahan
+
+Katerine Silaban	
+	1. Semalam saya mengganti background dan menghapus yang tidak penting pada slide
+	2. Hari ini saya mengedit slide
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya mengubah ukuran body dan mengedit slide
+	2. Hari ini saya mengedit dan menambahkan 
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
