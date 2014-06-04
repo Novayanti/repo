@@ -10,7 +10,7 @@ slide_width = 1030px
 slide_height = 480px
 slide_background = rgba(140, 9, 9, 1)
 
-slide_transition_length = .6s
+slide_transition_length = 1s
 slide_transition_easing = ease
 slide_transition_rotate_y = 360deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
@@ -84,10 +84,10 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateX(slide_transition_rotate_y * -1) translateX(slide_width / -2)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateX(slide_transition_rotate_y) translateX(slide_width / 2)
   @media print
     transform: none
 
