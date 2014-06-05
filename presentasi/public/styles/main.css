@@ -251,9 +251,9 @@ h2 {
   margin-bottom: 30px;
 }
 h3 {
-  font-size: 60px;
+  font-size: 40px;
   font-weight: normal;
-  margin-bottom: 24px;
+  margin-bottom: 35px;
   color: #000;
 }
 hr {
@@ -265,13 +265,13 @@ ul {
 }
 li {
   margin-bottom: 20px;
-  font-size: 45px;
+  font-size: 35px;
   list-style: none;
 }
 p {
   margin: 0 20px 12px;
   line-height: 40px;
-  font-size: 45px;
+  font-size: 35px;
   list-style: none;
 }
 a {
