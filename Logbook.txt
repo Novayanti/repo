@@ -337,7 +337,7 @@ Iqbal Fahlevi
 
 Santy Andriani	
 	1. Semalam saya menambahkan kata diakhir slide
-	2. Hari ini saya 
+	2. Hari ini saya mengedit data dislide
 	3. Tidak ada kendala kendala pada saat mengerjakan bagian penambahan
 
 Katerine Silaban	
@@ -348,5 +348,38 @@ Katerine Silaban
 Novayanti Nainggolan
 	1. Semalam saya mengedit dan menambahkan 
 	2. Hari ini saya mengedit Data di Slide dan mengubah font size
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
+======================================================================================================================
+SPRINT
+------
+Sprint 4		:
+Tgl. Pelaksanaan	: 04/6/14 - 6/6/14
+Scrummaster		: KATERINE SILABAN (12 111 2953)
+
+
+Progress Harian
+---------------
+Tgl : 06/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mencoba memasukkan image ke background			
+	2. Hari ini memperbaiki kata-kata slide penutup
+	3. Kendalanya tidak ada
+
+Santy Andriani	
+	1. Semalam saya menambahkan kata di slide
+	2. Hari ini saya mengedit data dislide
+	3. Tidak ada kendala kendala 
+
+Katerine Silaban	
+	1. Semalam saya mengedit slide
+	2. Hari ini menghapus beberapa kata yang tidak efisien dislide
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya mengedit Data di Slide dan mengubah font size 
+	2. Hari ini saya memperbaiki bagian slide bespoke dengan mendelete bagian yang tidak perlu.
 	3. Kendala yang saya hadapi tidak ada
 ======================================================================================================================
