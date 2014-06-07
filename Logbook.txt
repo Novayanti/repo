@@ -383,3 +383,35 @@ Novayanti Nainggolan
 	2. Hari ini saya memperbaiki bagian slide bespoke dengan mendelete bagian yang tidak perlu.
 	3. Kendala yang saya hadapi tidak ada
 ======================================================================================================================
+SPRINT
+------
+Sprint 5		:
+Tgl. Pelaksanaan	: 7/6/14 - 8/6/14
+Scrummaster		: IQBAL FAHLEVI (12 111 3070)
+
+
+Progress Harian
+---------------
+Tgl : 06/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya Memperbaiki Kata-kata slide penutup			
+	2. Hari ini saya mencoba memasukkan image ke Background namun tidak bisa
+	3. Kendalanya terjadi pada coding style
+
+Santy Andriani	
+	1. Semalam saya mengedit data dislide
+	2. Hari ini saya Memperbaiki error
+	3. Tidak ada kendala kendala 
+
+Katerine Silaban	
+	1. Semalam saya menghapus beberapa kata yang tidak efisien dislide
+	2. Hari ini saya menghapus kata dan mengedit slide
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya memperbaiki bagian slide bespoke dengan mendelete bagian yang tidak perlu. 
+	2. Hari ini saya Mengedit dan menghapus data
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
