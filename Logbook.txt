@@ -415,3 +415,35 @@ Novayanti Nainggolan
 	2. Hari ini saya Mengedit dan menghapus data
 	3. Kendala yang saya hadapi tidak ada
 ======================================================================================================================
+SPRINT
+------
+Sprint 5		:
+Tgl. Pelaksanaan	: 7/6/14 - 8/6/14
+Scrummaster		: IQBAL FAHLEVI (12 111 3070)
+
+
+Progress Harian
+---------------
+Tgl : 06/6/14
+Daily Scrum
+
+Iqbal Fahlevi
+	1. Semalam saya mencoba memasukkan image ke Background namun tidak bisa			
+	2. Hari ini saya Mengedit Bagian ciri-ciri Psikopat
+	3. Kendalanya tidak terdapat kendala
+
+Santy Andriani	
+	1. Semalam saya Memperbaiki error
+	2. Hari ini saya Mengubah warna Bespoke Progress Bar 
+	3. Tidak ada kendala kendala 
+
+Katerine Silaban	
+	1. Semalam saya menghapus kata dan mengedit slide
+	2. Hari ini saya menambahkan sedikit ifo tentang psikopat
+	3. Kendala yang saya hadapi tidak ada
+
+Novayanti Nainggolan
+	1. Semalam saya Mengedit dan menghapus data
+	2. Hari ini saya Mengedit beberapa kata
+	3. Kendala yang saya hadapi tidak ada
+======================================================================================================================
